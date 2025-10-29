@@ -15,56 +15,23 @@
 
 ---
 
-### 🧠 About Me
 
-I'm an enthusiastic developer passionate about transforming **theoretical cybersecurity concepts** into **real-world, secure software solutions**.  
-My interests include **web security**, **network protocols**, and **system design**.  
-I’m always looking to learn, collaborate, and build meaningful technology.
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=simolaaaab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=simolaaaab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=simolaaaab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=simolaaaab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔧 Technologies & Tools
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-#### 💬 Languages
-`Java` • `Python` • `C` • `JavaScript` • `SQL`
-
-#### 🌐 Web Development
-`Node.js` • `Express.js` • `React` • `HTML5` • `CSS3`
-
-#### 🔒 Security
-`OWASP Top 10` • `Encryption` • `Network Security` • `Wireshark` • `Burp Suite`
-
-#### 🗃️ Databases
-`MySQL` • `DynamoDB` • `SQLite`
-
-#### ⚙️ Tools
-`Git` • `Docker` • `VS Code` • `Linux` • `Postman`
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=simolaaaab&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| :------ | :----------- | :---------- |
-| 🛡️ **Web Security Project** | Online voting system analyzing and mitigating web vulnerabilities. | `Java` `Docker` `MySQL` `Web Security` |
-| 🌐 **Network Computing & Security** | Secure client-server system with custom protocol and encryption. | `Python` `Networking` `Security` |
-| 💻 **Web Applications I Project** | Full-stack riddle-based game with REST API backend and React frontend. | `Node.js` `Express` `React` `SQLite` |
-
----
-### ⚙️ GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simolaaaab&show_icons=true&theme=tokyonight)
-
-### 🧩 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simolaaaab&layout=compact&theme=tokyonight)
----
-
-### 💬 Let's Connect!
-
-📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/simonecapriolo/)  
-🌐 Or check out my [**GitHub Repositories**](https://github.com/Simolaaaab)
-
----
-
-<p align="center">
-  <i>"Turning security theory into powerful, safe, and scalable solutions."</i>
-</p>
+![](https://komarev.com/ghpvc/?username=simolaaab&color=dc143c)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
