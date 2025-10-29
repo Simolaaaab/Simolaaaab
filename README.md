@@ -55,8 +55,8 @@ I’m always looking to learn, collaborate, and build meaningful technology.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimoneCapriolo&show_icons=true&theme=tokyonight" alt="Simone's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneCapriolo&layout=compact&theme=tokyonight" alt="Top languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Simolaaaab&show_icons=true&theme=tokyonight" alt="Simone's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simolaaaab&layout=compact&theme=tokyonight" alt="Top languages" height="160" />
 </p>
 
 ---
