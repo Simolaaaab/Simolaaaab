@@ -1,7 +1,7 @@
 # Hi there! I'm Simone 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/simone-lazzari-/" target="_blank">
+  <a href="www.linkedin.com/in/simonecapriolo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -16,9 +16,9 @@ My academic journey and personal projects are focused on analyzing web applicati
 
 -   **Languages:** Java, JavaScript, Python, C, SQL
 -   **Web Development:** Node.js, Express.js, React, HTML5, CSS3
--   **Security:** Web Security (XSS, SQLi, CSRF), Network Security, Docker Security
--   **Databases:** MySQL, PostgreSQL, SQLite
--   **Tools:** Git, Docker, Wireshark, Burp Suite
+-   **Security:** 
+-   **Databases:** MySQL, DinamoDB
+-   **Tools:** Git, Docker, Wireshark
 
 ---
 
