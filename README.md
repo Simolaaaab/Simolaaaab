@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! I'm Simone 👋
 
-<!--
-**Simolaaaab/Simolaaaab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/simone-lazzari-/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+I am a Cybersecurity Engineering Master's student at **Politecnico di Torino**, with a strong passion for **cybersecurity** and **software development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My academic journey and personal projects are focused on analyzing web application security, managing network protocols, and building robust, secure software solutions. I believe in a hands-on approach to transform theoretical knowledge into practical, real-world skills.
+
+---
+
+### 🔧 Technologies & Skills
+
+-   **Languages:** Java, JavaScript, Python, C, SQL
+-   **Web Development:** Node.js, Express.js, React, HTML5, CSS3
+-   **Security:** Web Security (XSS, SQLi, CSRF), Network Security, Docker Security
+-   **Databases:** MySQL, PostgreSQL, SQLite
+-   **Tools:** Git, Docker, Wireshark, Burp Suite
+
+---
+
+### 🚀 My Main Projects
+
+| Project                                                   | Description                                                                                                   | Key Technologies                     |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| 🛡️ **Web Security Project**                                | An online voting application where I analyzed and implemented countermeasures against major web vulnerabilities. | `Java` `Docker` `MySQL` `Web Security` |
+| 🌐 **Network Computing & Security**                          | A secure client-server system for database interaction, focusing on custom protocols and encryption.          | `Python` `Networking` `Security`     |
+| 💻 **Web Applications I Project**                            | A full-stack web application for a riddle-based game, from backend API design to the frontend interface.        | `Node.js` `Express` `React` `SQLite` |
