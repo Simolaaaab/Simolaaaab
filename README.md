@@ -64,7 +64,7 @@ I’m always looking to learn, collaborate, and build meaningful technology.
 ### 💬 Let's Connect!
 
 📫 Reach me on [**LinkedIn**](https://www.linkedin.com/in/simonecapriolo/)  
-🌐 Or check out my [**GitHub Repositories**](https://github.com/SimoneCapriolo)
+🌐 Or check out my [**GitHub Repositories**](https://github.com/Simolaaaab)
 
 ---
 
