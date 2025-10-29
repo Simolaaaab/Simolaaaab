@@ -51,14 +51,11 @@ I’m always looking to learn, collaborate, and build meaningful technology.
 | 💻 **Web Applications I Project** | Full-stack riddle-based game with REST API backend and React frontend. | `Node.js` `Express` `React` `SQLite` |
 
 ---
+### ⚙️ GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Simolaaaab&show_icons=true&theme=tokyonight)
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simolaaaab&show_icons=true&theme=tokyonight" alt="Simone's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Simolaaaab&layout=compact&theme=tokyonight" alt="Top languages" height="160" />
-</p>
-
+### 🧩 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simolaaaab&layout=compact&theme=tokyonight)
 ---
 
 ### 💬 Let's Connect!
