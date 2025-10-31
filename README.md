@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm **Simone Capriolo**
 
 🎓 Cybersecurity Engineering Master's student at **Politecnico di Torino**  
-💻 Passionate about **Cybersecurity**, **Software Development**, and **Web Technologies**
+💻 Passionate about **Cybersecurity** and  **Software Development**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/simonecapriolo/" target="_blank">
@@ -22,7 +22,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=simolaaaab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=simolaaaab&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=simolaaaab&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-
----
-![](https://komarev.com/ghpvc/?username=simolaaab&color=dc143c)
 
